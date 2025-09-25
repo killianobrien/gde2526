@@ -109,3 +109,4 @@ title-slide-attributes:
     <td style="text-align: center;">Assessment week 02</td>
   </tr>
 </table>
+<p><span tyle="background-color: rgba(255, 145, 56, 0.87);">Delivered by guest lecturer from Careers Service</span></p>
