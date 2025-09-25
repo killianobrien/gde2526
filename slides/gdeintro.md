@@ -108,5 +108,9 @@ title-slide-attributes:
     <td>12/01/26</td>
     <td style="text-align: center;">Assessment week 02</td>
   </tr>
+  <tr>
+  <td></td>
+  <td><span syle="background-color: rgba(255, 145, 56, 0.87);">Delivered by guest lecturer from Careers Service</span></td>
+  </tr>
 </table>
-<p><span tyle="background-color: rgba(255, 145, 56, 0.87);">Delivered by guest lecturer from Careers Service</span></p>
+
