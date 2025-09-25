@@ -28,7 +28,7 @@ title-slide-attributes:
 	- short report assessing a graduate job vacancy and your personal skills and experience
 	- a group work report on a mathematical topic
 
-## The module | Teaching and Syllabus
+<!-- ## The module | Teaching and Syllabus -->
 
 
 
