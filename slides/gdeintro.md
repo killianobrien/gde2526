@@ -110,7 +110,7 @@ title-slide-attributes:
   </tr>
   <tr>
   <td></td>
-  <td><span syle="background-color: rgba(255, 145, 56, 0.87);">Delivered by guest lecturer from Careers Service</span></td>
+  <td><span style="background-color: rgba(255, 145, 56, 0.87);">Delivered by a guest lecturer from Man Met Careers</span></td>
   </tr>
 </table>
 
