@@ -1,0 +1,27 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsthm}
+\newtheorem{theorem}{Theorem}
+
+\title{Squaring and even integers}
+\author{Killian O'Brien}
+\date{September 2025}
+
+\begin{document}
+
+\maketitle
+
+\section{Squaring preserves evenness}
+
+Here is a theorem about squaring and even numbers. 
+
+\begin{theorem}
+    If an integer $m$ is even, then the integer $m^2$ is also even.
+\end{theorem}
+\begin{proof}
+Let $m$ be an even integer. Then, by the definition of even, there exists an integer $n$ such that $m=2n$. Notice that we can write $m^2$ as follows,
+$$m^2 = (2n)^2 = 4n^2 = 2(2n^2).$$
+This shows that $2$ is a factor of $m^2$ and therefore $m^2$ is even.
+\end{proof}
+
+\end{document}
