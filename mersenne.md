@@ -18,7 +18,7 @@ In fact, the exponent there, $136,279,841$ is itself a prime number. This is not
 
 This theorem can be proved using a relatively short factorisation argument. We normally prove the equivalent *contra-postive* statement:
 
-**Theorem**: *If the number $n$ is composite, then associated Mersenne number $2^n -1$ is also composite.*
+**Theorem**: *If the number $n$ is composite, then the associated Mersenne number $2^n -1$ is also composite.*
 
 Try to obtain an argument that proves this theorem, and type it up using $\LaTeX$. If you are struggling to make progress you could do some internet searching. Here is a hint. Assume the number $n$ is composite, i.e. $n$ can be factorised as 
 $$n = rs,$$
