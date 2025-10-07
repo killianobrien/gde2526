@@ -25,4 +25,4 @@ $$n = rs,$$
 for a pair of integers $r$ and $s$ with $1 \lt r$ and $1 \lt s$. 
 Now try to construct a factorisation of the Mersenne number, which will show that it is composite. The central part of the argument starts with 
 $$2^n - 1 = 2^{rs} - 1 = \left ( 2^r \right )^s - 1^s = \dots ,$$
-and continue by using a stanard polynomial factorisation result for the difference of powers. 
+and continue by using a standard polynomial factorisation result for the difference of powers. 
