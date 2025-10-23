@@ -20,6 +20,8 @@ title-slide-attributes:
 
 ## Introduction
 
+**Announcement:** [Maths Society Games Meetup](../games.jpeg){target="_blank"}
+
 Today we will cover 
 
 #### Resources for your literature search
