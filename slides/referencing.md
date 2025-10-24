@@ -103,6 +103,7 @@ In this article Ling Qian (2006) writes about fluid flow with moving bodies, and
 * [Referencing and why it matters](https://www.mmu.ac.uk/library/referencing-and-study-support/referencing){target="_blank"} on the Library website. Includes a link to the full *Cite them Right Harvard* referencing style. 
 * [LaTeX and BibTeX](http://en.wikibooks.org/wiki/LaTeX/Bibliography_Management){target="_blank"} -- managing citations and references when writing with $\LaTeX$.
 * [Endnote](https://www.mmu.ac.uk/library/referencing-and-study-support/endnote){target="_blank"} -- software for managing citations and reference lists which integrates with Microsoft Word and other software -- link to MMU library help. 
+* A $\LaTeX$ <a href="../LaTeX_report_template.zip" target="_blank" download>report template</a> that implements the Harvard author-date referencing style. 
 
 ## Exporting BibTeX entries
 
