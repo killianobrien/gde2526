@@ -83,7 +83,7 @@ There are many systems for referencing in use. They combine brief **citations** 
 
 ## What the systems look like
 
-In this article Terence Tao (2007) considers what good mathematics is. The article uses the *numeric* referncing style.
+In this article Terence Tao (2007) considers what good mathematics is. The article uses the *numeric* referencing style.
 
 * Tao, T. (2007) 'What is good mathematics?', *Bulletin of the American Mathematical Society*, 44(4), pp. 623 - 634. Available at: [https://doi.org/10.1090/S0273-0979-07-01168-8](https://doi.org/10.1090/S0273-0979-07-01168-8){target="_blank"}
 
