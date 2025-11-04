@@ -45,4 +45,4 @@ Some good sites for searching for graduate/placement job opportunities.
 <li><a href="http://www.targetjobs.co.uk/" target="_blank" rel="noopener external">TARGETJobs</a></li>
 </ul>
 
-There are lots for sources list on the [Careers website](https://www.mmu.ac.uk/careers/graduates/jobs-after-you-graduate){target="_blank"} sorted by industry area.
+There are many other sources list on the [Careers website](https://www.mmu.ac.uk/careers/graduates/jobs-after-you-graduate){target="_blank"}, sorted by industry area.
