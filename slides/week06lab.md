@@ -43,6 +43,18 @@ By this time you should be firming up your plans, and ideally have:
 * a clear idea of how the work is being split up among the members of your group,
 * a good set of resources to base your research of the topic on. 
 
+### Project presentations
+
+In weeks 10 and 11 we will be using the lab sessions to hold presentations from the groups on their projects. This is an *un-assessed* and *informal* way to gain experience in giving a presentation about your work. In your second and third years there will be assessed presentation elements to some of your assessment.
+
+The presentation should:
+
+* be 10 minutes long,
+* ideally involve all group members,
+* use some appropriate presentation slides,
+* give the audience (the class and Killian) an introduction and background to the topic area,
+* include some technical detail on some of the mathematics involved. 
+
 ## Individual tasks for the assessment
 
 Some good sites for searching for graduate/placement job opportunities.
