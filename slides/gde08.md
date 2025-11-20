@@ -28,3 +28,11 @@ loop: true
     - discussions/planning with your project group.
 
 * **Problem solving:** The following slides present some interesting mathemtatics puzzles. Spend some time with them and we can hear some solutions towards the end. 
+
+## Star numbers
+
+
+## Conical Christmas trees
+
+
+## Maximum number of pizza slices
