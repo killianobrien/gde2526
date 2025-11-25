@@ -23,6 +23,6 @@ The table shows which groups will present in which week.
 
    Lab                                   Groups
 --------                       ------    ------------
-Tue 2nd Dec 2025 @ 1pm DB G.20           1, 2, 3, 4, 5, 6, 7
-Tue 9th Dec 2025 @ 1pm DB G.20           8, 9, 10, 11, 13, 14
+Tue 2nd Dec 2025 @ 1pm DB G.20           1, 2, 3, 4, 5, 7
+Tue 9th Dec 2025 @ 1pm DB G.20           6, 8, 9, 10, 11, 13, 14
 
